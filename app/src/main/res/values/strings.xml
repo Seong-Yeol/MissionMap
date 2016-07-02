@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MissionMap</string>
+
+    <string name="daum_api_key">8e5bef05c2fc23805cee52868173d08f</string>
+</resources>
